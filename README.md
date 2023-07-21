@@ -1,7 +1,6 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)](https://ratnalaraja.io)
+
 <h1 align="center">Hi 👋, I'm Ratnala Raja</h1>
 <h3 align="center">A passionate Coder and Web Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnalaraja&label=Profile%20views&color=0e75b6&style=flat" alt="ratnalaraja" /> </p>
