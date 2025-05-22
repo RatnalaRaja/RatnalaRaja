@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnalaraja&label=Profile%20views&color=0e75b6&style=flat" alt="ratnalaraja" /> </p>
 
-- 🌱 I’m currently learning **AWS DEVOPS**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about **HTML CSS AWS DEVOPS**
 
 - 📫 How to reach me **rk635238@gmail.com**
 
